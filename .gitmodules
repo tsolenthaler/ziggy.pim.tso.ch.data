@@ -1,0 +1,3 @@
+[submodule "python-akeneo-cli"]
+	path = python-akeneo-cli
+	url = https://github.com/tsolenthaler/python-akeneo-cli
